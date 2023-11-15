@@ -1,0 +1,9 @@
+arrow==1.2.3
+joblib==1.2.0
+numpy==1.24.3
+pandas==2.0.1
+polars==0.17.12
+pyarrow==12.0.0
+scikit-learn==1.0.2
+tqdm==4.65.0
+xgboost==1.6.2
